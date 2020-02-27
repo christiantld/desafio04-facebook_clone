@@ -20,9 +20,9 @@ Essa aplicação faz parte do desafio 04 do bootcamp GoStack da Rocketseat.
 
 ## Iniciando o Projeto <a name = "getting_started"></a>
 
-`git clone` - Clonar o repositório para o ambiente local
-`yarn` - Inicialiar o Yarn para instalar as dependênncias do package.json
-`yarn start` - Script para iniciar o projeto React
+* `git clone` - Clonar o repositório para o ambiente local
+* `yarn` - Inicialiar o Yarn para instalar as dependênncias do package.json
+* `yarn start` - Script para iniciar o projeto React
 
 ### Tecnologias
 
